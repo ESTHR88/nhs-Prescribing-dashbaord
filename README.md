@@ -31,5 +31,5 @@ Link: [NHSBSA Prescribing Dataset] https://opendata.nhsbsa.net/dataset/hospital-
 ## Key insights
 - A small set of medicines contributes a large share of total spend (cost concentration).
 - Several trusts show higher average cost per item compared to the national average — flags for medicines optimisation.
-- Quantity analysis highlights medicines dispensed in large unit volumes (high average quantity per item), useful for stock planning and audit.
+  
 
